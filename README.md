@@ -127,7 +127,7 @@ mini-AI-Resume-Scanner/
 
 ## 👨‍💻 Author
 
-Ankit Mishra
+priya mishra
 
 Passionate Django & Python Developer focused on building real-world projects and improving backend development skills.
 
